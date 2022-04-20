@@ -8,9 +8,102 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69e74f02-31ee-48e4-8317-acb54dd3352e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Restaurant/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/Restaurant/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/Restaurant/v17/.futdcache.v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/Controllers/WeatherForecastController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/DbContexts/ApplicationDbContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/Mango.Services.ProductAPI.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/Migrations/20220419184211_initial.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/Migrations/20220419184211_initial.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/Migrations/ApplicationDbContextModelSnapshot.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/Models/Dtos/ProductDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/Models/Product.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/Repository/iProductRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/WeatherForecast.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/AutoMapper.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Humanizer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Mango.Services.ProductAPI.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Mango.Services.ProductAPI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Mango.Services.ProductAPI.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Mango.Services.ProductAPI.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Mango.Services.ProductAPI.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Microsoft.Identity.Client.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Annotations.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/System.Drawing.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/System.Runtime.Caching.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/System.Security.Permissions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/System.Windows.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/Mango.Services.ProductAPI.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/Mango.Services.ProductAPI.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/Mango.Services.ProductAPI.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/Mango.Services.ProductAPI.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/Mango.Services.ProductAPI.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/Mango.Services.ProductAPI.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/Mango.Services.ProductAPI.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/Mango.Services.ProductAPI.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/Mango.Services.ProductAPI.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/Mango.Services.ProductAPI.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/Mango.Services.ProductAPI.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/Mango.Services.ProductAPI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/Mango.Services.ProductAPI.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/Mango.Services.ProductAPI.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/ref/Mango.Services.ProductAPI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/refint/Mango.Services.ProductAPI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Debug/net6.0/staticwebassets.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Mango.Services.ProductAPI.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Mango.Services.ProductAPI.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/Mango.Services.ProductAPI.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Services.ProductAPI/obj/staticwebassets.pack.sentinel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mango.Web/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Restaurant/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Restaurant/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/Restaurant/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Restaurant/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango.Web/obj/Mango.Web.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Mango.Web/obj/Mango.Web.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mango.Web/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/Mango.Web/obj/staticwebassets.pack.sentinel" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Restaurant.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Restaurant.sln" afterDir="false" />
     </list>
@@ -23,12 +116,15 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2814bYtEq5z0wibbuNiNGxLp5hD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -107,7 +203,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650370839060</updated>
-      <workItem from="1650370839062" duration="5562000" />
+      <workItem from="1650370839062" duration="5694000" />
+      <workItem from="1650447018299" duration="1142000" />
     </task>
     <servers />
   </component>
@@ -126,6 +223,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
